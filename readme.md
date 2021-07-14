@@ -11,6 +11,8 @@
 ### Test 1
 
 ![image](snapshots/1.png)
+<img src="snapshots/1.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="/snapshots/1.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
 ### Test 2
 
