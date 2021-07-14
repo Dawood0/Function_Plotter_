@@ -9,7 +9,7 @@
 
 
 ### Test 1
-![](/snapshots/1.png)
+![](./snapshots/1.png)
 
 ### Test 2
 ![](/snapshots/2.png)
