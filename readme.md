@@ -9,17 +9,24 @@
 
 
 ### Test 1
-![](./snapshots/1.png)
+
+![image](snapshots/1.png)
 
 ### Test 2
-![](/snapshots/2.png)
+
+![image](snapshots/2.png)
 
 ### Test 3 (Wrong Example)
-![](snapshots/3.png)    
-![](snapshots/4.png)
+
+![image](snapshots/3.png)    
+
+![image](snapshots/4.png)
+
 ### Test 4 (Wrong Example)
-![](snapshots/5.png)   
-![](snapshots/4.png)
+
+![image](snapshots/5.png)   
+
+![image](snapshots/4.png)
 
 
 
