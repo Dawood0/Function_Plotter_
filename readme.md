@@ -8,27 +8,26 @@
 ---
 
 
+### Code
+
+In the code i divided the work into files one for UI and one for the algo each one serves its purpose.
+
+I used Pyside2 to make the UI and embedded the graph in the application which i used matplotlib to graph it.  
+I saved the graphs as images in a directory and showed them in the UI.
+
+
 ### Test 1
-
-![image](snapshots/1.png)
-<img src="snapshots/1.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
-
+![](./snapshots/1.png)
 
 ### Test 2
-
-![image](snapshots/2.png)
+![](./snapshots/2.png)
 
 ### Test 3 (Wrong Example)
-
-![image](snapshots/3.png)    
-
-![image](snapshots/4.png)
-
+![](./snapshots/3.png)    
+![](./snapshots/4.png)
 ### Test 4 (Wrong Example)
-
-![image](snapshots/5.png)   
-
-![image](snapshots/4.png)
+![](./snapshots/5.png)   
+![](./snapshots/4.png)
 
 
 
